@@ -31,6 +31,11 @@ Blocked via NACL → server inaccessible
 
 
 
+
 🔹 Result
 
 Successfully demonstrated layered security using SG and NACL.
+
+
+<img width="1080" height="465" alt="image" src="https://github.com/user-attachments/assets/828ce79b-660b-479a-9b01-57bc31d24d23" />
+
