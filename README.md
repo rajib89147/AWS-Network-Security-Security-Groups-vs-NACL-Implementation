@@ -8,10 +8,14 @@ This project demonstrates how inbound and outbound traffic is controlled in AWS 
 🔹 Services Used
 Amazon VPC
 Amazon EC2
+
+
 🔹 Key Concepts
 Security Group (Stateful)
 Network ACL (Stateless)
 Inbound vs Outbound rules
+
+
 🔹 Implementation Steps
 Created custom VPC
 Configured public subnet
@@ -19,9 +23,14 @@ Launched EC2 instance
 Applied Security Group rules (allow port 8000)
 Configured NACL rules (allow/deny traffic)
 Deployed Python HTTP server
+
+
 🔹 Testing
 Allowed traffic → server accessible
 Blocked via NACL → server inaccessible
+
+
+
 🔹 Result
 
 Successfully demonstrated layered security using SG and NACL.
